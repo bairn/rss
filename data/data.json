@@ -1,0 +1,16 @@
+[
+{
+	"site" : "npr",
+	"link" : "https://feeds.npr.org/1008/rss.xml",
+	"type" : "rss"
+},
+{
+	"site" : "npr",
+	"link" : "https://feeds.npr.org/1008/rss.xml",
+	"type" : "rss"
+},{
+  	"site" : "npr",
+  	"link" : "https://feeds.npr.org/1008/rss.xml",
+  	"type" : "rss"
+}
+]
